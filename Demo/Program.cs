@@ -55,6 +55,29 @@
             //    Console.WriteLine(item);
             //}
             #endregion
+            #region HashTable non-gnaric
+            //// key and Value
+            //Hashtable Note = new Hashtable();
+
+            //Note.Add("khaled", 01140069427);
+            //Note.Add("mo", 01140069427);
+            //Note.Add("wagdy", 01140069427);
+
+            //// Note.Add("wagdy", 01140069427);// EX key must be unique
+            ////protective code
+            //if (!Note.ContainsKey("khaled"))
+            //{
+            //    Note.Add("khaled",01140069427);
+            //}
+            //else{
+            //    Console.WriteLine("InValid");
+            //}
+
+            //foreach (DictionaryEntry  item in Note)
+            //{
+            //    Console.WriteLine($"{item.Key}  //  {item.Value}");
+            //}
+            #endregion
         }
     }
 }
