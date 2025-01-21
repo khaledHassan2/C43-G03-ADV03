@@ -109,6 +109,18 @@
 
 
             #endregion
+            #region SortedList
+            //SortedList<string, int> Nots=new SortedList<string, int>();
+            //Nots.Add("c", 1);
+            //Nots.Add("b", 2);
+            //Nots.Add("a", 3);
+            //Nots.Remove("c");
+
+            //foreach (var item in Nots)
+            //{
+            //    Console.WriteLine($"{item.Key} // {item.Value}");
+            //}
+            #endregion
         }
     }
 }
