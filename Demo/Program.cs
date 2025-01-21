@@ -95,6 +95,20 @@
             //    Console.WriteLine($"{item.Key}  //  {item.Value}");
             //}
             #endregion
+            #region sortedDictionary
+            //SortedDictionary<string, int> Note = new SortedDictionary<string, int>();
+
+            //Note.Add("khaled", 123);
+            //Note.Add("nada", 254);
+            //Note.Add("Awagdy", 254);
+
+            //foreach (var item in Note)
+            //{
+            //    Console.WriteLine($"{item.Key} // {item.Value}");
+            //}
+
+
+            #endregion
         }
     }
 }
