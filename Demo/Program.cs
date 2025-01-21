@@ -132,6 +132,28 @@
             //    Console.WriteLine($"{item}");
             //}
             #endregion
+            #region sortedSet (BBS)
+            //SortedSet<uint> Numbers = new SortedSet<uint>();
+
+            //Numbers.Add(15);
+            //Numbers.Add(1);
+            //Numbers.Add(8);
+            //Numbers.Add(2);
+            //Numbers.Add(7);
+            //Numbers.Add(0);
+
+            //Console.WriteLine(Numbers.Count());
+
+            //foreach (var item in Numbers)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+
+
+
+
+            #endregion
         }
     }
 }
