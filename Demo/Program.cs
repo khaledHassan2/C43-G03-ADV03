@@ -78,6 +78,23 @@
             //    Console.WriteLine($"{item.Key}  //  {item.Value}");
             //}
             #endregion
+            #region Dictionary (HashTable) Genaric
+            //Dictionary<string,int> Note = new Dictionary<string,int>();
+
+            //Note.Add("khaled", 01140069427);
+            //Note.Add("mo", 01140069427);
+            //Note.Add("wagdy", 01140069427);
+
+            //// Note.Add("wagdy", 01140069427);// EX key must be unique
+            ////protective code
+
+            //Console.WriteLine(Note.TryAdd("khaled", 01140069427));
+
+            //foreach (KeyValuePair<string,int> item in Note)
+            //{
+            //    Console.WriteLine($"{item.Key}  //  {item.Value}");
+            //}
+            #endregion
         }
     }
 }
