@@ -36,6 +36,25 @@
             //    Console.WriteLine(item);
             //}
             #endregion
+            #region Queue
+            //// first in first out 
+            //Queue<int> queue = new Queue<int>();
+            //queue.Enqueue(1);
+            //queue.Enqueue(2);
+            //queue.Enqueue(3);
+            ////  queue.Dequeue();// 1
+            //Console.WriteLine(queue.Dequeue());//1
+            //Console.WriteLine(queue.Dequeue());//2
+            //Console.WriteLine(queue.Dequeue());//3
+
+            //// Console.WriteLine(queue.Dequeue());// EX
+            //Console.WriteLine(queue.TryDequeue(out int lnum));
+
+            //foreach (var item in queue)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
         }
     }
 }
