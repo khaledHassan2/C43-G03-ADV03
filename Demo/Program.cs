@@ -121,6 +121,17 @@
             //    Console.WriteLine($"{item.Key} // {item.Value}");
             //}
             #endregion
+            #region HashSet
+            //HashSet<int> Numbers = new HashSet<int>();
+            //Numbers.Add(1);
+            //Numbers.Add(2);
+            //Numbers.Add(1);
+
+            //foreach (var item in Numbers)
+            //{
+            //    Console.WriteLine($"{item}");
+            //}
+            #endregion
         }
     }
 }
